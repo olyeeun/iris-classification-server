@@ -24,6 +24,7 @@ Iris-classifier의 차별점은 사용자가 회원가입을 할 때 관심이 �
 
 - 프로그래밍 언어
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Adobe&logoColor=white">
+Python(>3.8)
 
 ## 주요 기능
 ## 🙍  User
