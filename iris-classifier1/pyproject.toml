@@ -7,3 +7,7 @@ require-python = ">3.8"
 [[project.authors]]
 email = "dldpdms3406@naver.com"
 name = "ye-eun Lee"
+
+[[project.authors]]
+email = "dldpdms3406@naver.com"
+name = "ye-eun Lee"
