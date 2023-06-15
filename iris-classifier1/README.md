@@ -5,7 +5,7 @@
 </p>
 
 #### 📌 프로젝트 기간: 2023.06.03 ~ 2023.06.14
-#### 📌 Git Hub url: 
+#### 📌 Git Hub url: https://github.com/olyeeun/iris-classification-server
 
 ## 프로젝트 설명
 아이리스 꽃종 분류기(Iris-classifier)는 아이리스 품종 중 'setosa', 'versicolor', 'virginca'를 모델로 정하여 꽃잎 길이, 꽃잎 폭, 꽃받침 길이, 꽃받침 폭을 분석을 통해 각 꽃종의 명칭과 특성을 명확하게 분류합니다.
