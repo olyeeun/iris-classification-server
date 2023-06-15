@@ -1,7 +1,7 @@
 # 🌷 iris-classifier Project
 파이썬을 기반으로 한 아이리스 꽃종 분류기
 <p  align="center">
-  <img height="300" src="https://github.com/olyeeun/iris-classification-server/blob/main/image/flavia-bon-Sw-tMGNlU3o-unsplash.jpg"/>  
+  <img height="300" src="https://github.com/olyeeun/iris-classification-server/blob/main/iris-classifier1/image/flavia-bon-Sw-tMGNlU3o-unsplash.jpg"/>  
 </p>
 
 #### 📌 프로젝트 기간: 2023.06.03 ~ 2023.06.14
